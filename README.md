@@ -61,7 +61,7 @@ Sinta-se à vontade para abrir issues, sugerir melhorias ou compartilhar dashboa
 
 ## 📩 Contato
 
-👤 **Rogerio Vidal de Siqueiera**  
+👤 **Rogerio Vidal de Siqueira**  
 📧 rogerio.siqueira@ipe.df.gov.br  
 🔗 [LinkedIn](https://www.linkedin.com/in/rogerio-vidal-de-siqueira-9478aa136/) | [GitHub](https://github.com/rvidals)
 
