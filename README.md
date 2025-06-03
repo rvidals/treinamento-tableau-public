@@ -1,6 +1,6 @@
 # 🗺️ Treinamento: Elaboração de Mapas Interativos no Tableau Public
 
-![Tableau Public Banner](https://user-images.githubusercontent.com/your-banner-image.jpg) <!-- Substitua por um banner, se quiser -->
+![Tableau Public Banner](https://github.com/rvidals/treinamento-tableau-public/blob/main/Imagens/Logo%20Tableau.jpeg) <!-- Substitua por um banner, se quiser -->
 
 ## 🎯 Objetivo
 
