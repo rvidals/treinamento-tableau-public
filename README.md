@@ -33,8 +33,8 @@ Capacitar estagiários na **criação de mapas interativos** utilizando o **Tabl
 
 ## 🔗 Link para o Material do Treinamento
 
-> 📁 [Acesse os arquivos do treinamento aqui](https://github.com/seu-usuario/nome-do-repositorio/tree/main/material)  
-> 🌐 [Veja um exemplo de dashboard publicado](https://public.tableau.com/app/profile/seuusuario/viz/nome-do-dashboard)
+> 📁 [Acesse os arquivos do treinamento aqui](https://github.com/rvidals/treinamento-tableau-public/tree/main/Dados)  
+> 🌐 [Veja um exemplo de dashboard publicado](https://public.tableau.com/app/profile/rogerio.vidal.de.siqueira/viz/Tableau-ExemploMapas/Histria1?publish=yes)
 
 ---
 
