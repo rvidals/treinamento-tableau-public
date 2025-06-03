@@ -42,7 +42,7 @@ Capacitar estagiários na **criação de mapas interativos** utilizando o **Tabl
 
 - ✅ Conta gratuita no [Tableau Public](https://public.tableau.com/)
 - ✅ Tableau Public instalado ([Download aqui](https://public.tableau.com/en-us/s/download))
-- ✅ Noções básicas de planilhas (Excel/Google Sheets)
+- ✅ Noções básicas de planilhas (Excel)
 
 ---
 
